@@ -1,4 +1,4 @@
-ontract code is for Ethereum 
+Contract code is for Ethereum 
   * Testnet transactions will fail as there is no value
   * New token will be created and flash loan will be pulled to trade against the token
   * Profit remaining will be transfered to token creator
